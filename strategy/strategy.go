@@ -37,7 +37,7 @@ func (cs CurseSpell) CastSpell() {
 type FrostSpell struct{}
 
 func (fs FrostSpell) CastSpell() {
-	fmt.Println("❄️  Frost Bolt ❄️\n")
+	fmt.Println("❄️  Frost Bolt ❄️ \n")
 }
 
 func main() {
